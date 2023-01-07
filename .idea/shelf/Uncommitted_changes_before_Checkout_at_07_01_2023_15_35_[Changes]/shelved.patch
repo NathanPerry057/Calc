@@ -1,0 +1,20 @@
+Index: src/main/java/ie/atu/week4/Calc.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package ie.atu.week4;\r\n\r\npublic class Calc {\r\n    public static void main(String[] args) {\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/ie/atu/week4/Calc.java b/src/main/java/ie/atu/week4/Calc.java
+--- a/src/main/java/ie/atu/week4/Calc.java	(revision 4a08cdc0aa5790615948618f91b33438a43c435a)
++++ b/src/main/java/ie/atu/week4/Calc.java	(date 1673105704143)
+@@ -3,5 +3,9 @@
+ public class Calc {
+     public static void main(String[] args) {
+ 
++    }
++
++    public static void delete() {
++
+     }
+ }
